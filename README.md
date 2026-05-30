@@ -9,6 +9,6 @@
 ## Goals for First Year
 - Internships
 - Build projects
-- -Improve communication
+- Improve communication
 - Learn touch typing
   
